@@ -258,10 +258,9 @@
 /* Custom background colors for slides in first demo */
 
 /* First Slide */
-.demo-1 .bg-1 .sl-slide-inner,
-.demo-1 .bg-1 .sl-content-slice {
+.demo-1 .bg-1  {
 	background: #5bc2ce;
-	background-image: url(../ggm/images/slippers-lg.jpg);
+	background-image: url(http://girls-gone-mild.net/images/slippers-lg.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
