@@ -277,8 +277,7 @@
 }
 
 /* Second Slide */
-.demo-1 .bg-2 .sl-slide-inner,
-.demo-1 .bg-2 .sl-content-slice {
+.demo-1 .bg-2 {
 	background: #000;
 }
 
