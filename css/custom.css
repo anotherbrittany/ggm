@@ -292,10 +292,9 @@
 }
 
 /* Third Slide */
-.demo-1 .bg-3 .sl-slide-inner,
-.demo-1 .bg-3 .sl-content-slice {
+.demo-1 .bg-3 {
 	background: #db84ad;
-	background-image: url('../images/bath-lg.jpg');
+	background-image: url('http://www.girls-gone-mild.net/images/bath-lg.jpg');
 	background-repeat: no-repeat;
 		background-position: center center;
 	background-attachment: fixed;
@@ -327,10 +326,9 @@
 }
 
 /* Forth Slide */
-.demo-1 .bg-4 .sl-slide-inner,
-.demo-1 .bg-4 .sl-content-slice {
+.demo-1 .bg-4 {
 	background: #000;
-	background-image: url(../ggm/images/jalapeno.jpg);
+	background-image: url(http://www.girls-gone-mild.net/images/jalapeno.jpg);
 	background-repeat: no-repeat;
 		background-position: center center;
 	background-attachment: fixed;
@@ -360,10 +358,9 @@
 }
 
 /* Fifth Slide */
-.demo-1 .bg-5 .sl-slide-inner,
-.demo-1 .bg-5 .sl-content-slice {
+.demo-1 .bg-5 {
 	background: #ffeb41;
-	background-image: url(../images/knitting.jpg);
+	background-image: url(http://www.girls-gone-mild.net/images/knitting.jpg);
 	background-repeat: no-repeat;
 		background-position: center center;
 	background-attachment: fixed;
